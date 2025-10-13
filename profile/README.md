@@ -15,7 +15,7 @@ Through collaboration across disciplines — including healthcare, education, fi
 </div>
 
 <div style="flex: 0 0 40%; text-align: center;">
-  <img src="journals.png" alt="Published Journals" width="350"/>
+  <img src="JUR.png" alt="Published Journals" width="350"/>
 </div>
 
 </div>
