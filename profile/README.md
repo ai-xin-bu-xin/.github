@@ -55,7 +55,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 
 
-## 🧑‍🔬 Team — 2025 Publications
+## 👥 Team Members Introduction
 
 ### Qining Luo
 
