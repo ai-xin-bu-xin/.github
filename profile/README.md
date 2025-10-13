@@ -77,48 +77,95 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 </div>
 
-
-
 ### Baozhong Wei
-<p align="center">
-  <img src="wbz.png" alt="Baozhong Wei" width="160" style="border-radius:50%;"/>
-</p>
 
-**Status legend:** *Under peer review* / *Initial review* / *Accepted* / *Published* / *Journal selection*  
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
 
-1. **Modeling Carbon Price Dynamics Driven by External Factors: A Hybrid Framework Combining Mamba State-Space Model and Transformer** — Rank: JCR Q1 (Area I) · **Under peer review**  
-2. **Enhancing Grid Stability and Renewable Energy Integration with an Advanced Dual-Domain Photovoltaic Power Forecasting Framework** — Rank: JCR Q1 (Area I) · **Initial review**  
-3. **SFDformer: A Frequency-Based Sparse Decomposition Transformer for Air Pollution Time Series Prediction** — Rank: JCR Q1 (Area III) · **Published** · *Frontiers in Environmental Science* · DOI: [10.3389/fenvs.2025.1549209](https://doi.org/10.3389/fenvs.2025.1549209)  
-4. **ACSAformer: A Crime Forecasting Model Based on Sparse Attention and Adaptive Graph Convolution** — Rank: JCR Q1 (Area III) · **Published** · *Frontiers in Physics* · DOI: [10.3389/fphy.2025.1596987](https://doi.org/10.3389/fphy.2025.1596987)  
-5. **KEDformer: Knowledge Extraction Seasonal Trend Decomposition for Long-term Sequence Prediction** — Rank: JCR Q1 (Area III) · **Accepted**  
-6. **CMDMamba: Dual-Layer Mamba Architecture with Dual Convolutional Feed-Forward Networks for Efficient Financial Time Series Forecasting** — Rank: JCR Q1 (Area IV) · **Published** · *Frontiers in Artificial Intelligence* · DOI: [10.3389/frai.2025.1599799](https://doi.org/10.3389/frai.2025.1599799)  
-7. **TC-Linear: Lightweight Traffic Speed Forecasting via Trend-Seasonal Decomposition and Temporal Convolution** — Rank: JCR Q2 (Area IV) · **Accepted**  
-8. **Modeling Cryptocurrency Price Dynamics Across Scales and Assets: A Framework Incorporating Decoupled Temporal–Variable Attention and Segment Merging** — Rank: JCR Q2 (Area IV) · **Under peer review**  
-9. **CCformer: Covariate-aware Cross-Attention and Convolutional Network Model for Sports Crowd Flow Forecasting** — Rank: JCR Q2 (Area IV) · **Initial review**  
-10. **Reliable Prediction on Small Medical Tabular Data with a Graph-Enhanced Transformer** — Rank: — · **Journal selection**  
-11. **Temporal-Structural Modeling for Cryptocurrency Price Forecasting: A Framework Based on Reversed Embedding and Adaptive Graph Convolution** — Rank: — · **Journal selection**  
+<table style="width:100%;">
+  <!-- Row 1: avatar + brief info (placeholders allowed empty) -->
+  <tr>
+    <td style="width:120px; vertical-align:top; padding-right:12px;">
+      <img src="wbz.png" alt="Baozhong Wei" width="110" style="border-radius:50%;"/>
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Name:</strong> Baozhong Wei &nbsp;·&nbsp;
+      <strong>Email:</strong> — &nbsp;·&nbsp;
+      <strong>University:</strong> —
+      <br/><br/>
+      <strong>Experience</strong>
+      <ul style="margin-top:6px;">
+        <li>—</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Row 2: publications inside the same table -->
+  <tr>
+    <td colspan="2" style="padding-top:8px;">
+
+**Publications** <span style="color:#6b7280;">(Status: Under peer review / Initial review / Accepted / Published / Journal selection)</span>
+
+1. **Modeling Carbon Price Dynamics Driven by External Factors: A Hybrid Framework Combining Mamba State-Space Model and Transformer** — Rank: JCR Q1 (Area I) · **Under peer review** · DOI: —
+2. **Enhancing Grid Stability and Renewable Energy Integration with an Advanced Dual-Domain Photovoltaic Power Forecasting Framework** — Rank: JCR Q1 (Area I) · **Initial review** · DOI: —
+3. **SFDformer: A Frequency-Based Sparse Decomposition Transformer for Air Pollution Time Series Prediction** — Rank: JCR Q1 (Area III) · **Published** · *Frontiers in Environmental Science* · DOI: <a href="https://doi.org/10.3389/fenvs.2025.1549209">10.3389/fenvs.2025.1549209</a>
+4. **ACSAformer: A Crime Forecasting Model Based on Sparse Attention and Adaptive Graph Convolution** — Rank: JCR Q1 (Area III) · **Published** · *Frontiers in Physics* · DOI: <a href="https://doi.org/10.3389/fphy.2025.1596987">10.3389/fphy.2025.1596987</a>
+5. **KEDformer: Knowledge Extraction Seasonal Trend Decomposition for Long-term Sequence Prediction** — Rank: JCR Q1 (Area III) · **Accepted** · DOI: —
+6. **CMDMamba: Dual-Layer Mamba Architecture with Dual Convolutional Feed-Forward Networks for Efficient Financial Time Series Forecasting** — Rank: JCR Q1 (Area IV) · **Published** · *Frontiers in Artificial Intelligence* · DOI: <a href="https://doi.org/10.3389/frai.2025.1599799">10.3389/frai.2025.1599799</a>
+7. **TC-Linear: Lightweight Traffic Speed Forecasting via Trend-Seasonal Decomposition and Temporal Convolution** — Rank: JCR Q2 (Area IV) · **Accepted** · DOI: —
+8. **Modeling Cryptocurrency Price Dynamics Across Scales and Assets: A Framework Incorporating Decoupled Temporal–Variable Attention and Segment Merging** — Rank: JCR Q2 (Area IV) · **Under peer review** · DOI: —
+9. **CCformer: Covariate-aware Cross-Attention and Convolutional Network Model for Sports Crowd Flow Forecasting** — Rank: JCR Q2 (Area IV) · **Initial review** · DOI: —
+10. **Reliable Prediction on Small Medical Tabular Data with a Graph-Enhanced Transformer** — Rank: — · **Journal selection** · DOI: —
+11. **Temporal-Structural Modeling for Cryptocurrency Price Forecasting: A Framework Based on Reversed Embedding and Adaptive Graph Convolution** — Rank: — · **Journal selection** · DOI: —
+
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ### Dongze Wu
-<p align="center">
-  <img src="wdz.jpg" alt="Dongze Wu" width="160" style="border-radius:50%;"/>
-</p>
 
-1. **DynSpecNet: Dynamic Spectral Representation Learning for Anomaly Detection in Open-Source Intelligence Graphs** — Rank: JCR Q1 (Area II) · **Status: Initial review**  
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
 
-2. **Building an intelligent diabetes Q&A system with knowledge graphs and large language models** — Rank: JCR Q1 (Area III) · **Status: Published**  
-   *Frontiers in Public Health* · DOI: [10.3389/fpubh.2025.1540946](https://doi.org/10.3389/fpubh.2025.1540946)
+<table style="width:100%;">
+  <!-- Row 1: avatar + brief info (placeholders allowed empty) -->
+  <tr>
+    <td style="width:120px; vertical-align:top; padding-right:12px;">
+      <img src="wdz.jpg" alt="Dongze Wu" width="110" style="border-radius:50%;"/>
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Name:</strong> Dongze Wu &nbsp;·&nbsp;
+      <strong>Email:</strong> — &nbsp;·&nbsp;
+      <strong>University:</strong> —
+      <br/><br/>
+      <strong>Experience</strong>
+      <ul style="margin-top:6px;">
+        <li>—</li>
+      </ul>
+    </td>
+  </tr>
 
-3. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering** — Rank: JCR Q1 (Area III) · **Status: Accepted**
+  <!-- Row 2: publications inside the same table -->
+  <tr>
+    <td colspan="2" style="padding-top:8px;">
 
-4. **FEAM: A Dynamic Prompting Framework for Sentiment Analysis with Hierarchical Convolutional Attention** — Rank: JCR Q2 (Area III) · **Status: Published**
+**Publications**
 
-5. **DP-FWCA: A Prompt-Enhanced Model for Named Entity Recognition in Educational Domains** — Rank: JCR Q2 (Area IV) · **Status: Published**  
-   *IEEE Access* · DOI: [10.1109/ACCESS.2025.3590851](https://doi.org/10.1109/ACCESS.2025.3590851)
-  
-7. **DynProGC-BERT: A Dynamic Prompt and Global-Context Gated Convolutional Framework for Robust Hate Speech Detection** — Rank: JCR Q3 (Area IV) · **Status: Under peer review**
-****
----
+1. **DynSpecNet: Dynamic Spectral Representation Learning for Anomaly Detection in Open-Source Intelligence Graphs** — Rank: JCR Q1 (Area II) · **Initial review** · DOI: —
+2. **Building an intelligent diabetes Q&A system with knowledge graphs and large language models** — Rank: JCR Q1 (Area III) · **Published** · *Frontiers in Public Health* · DOI: <a href="https://doi.org/10.3389/fpubh.2025.1540946">10.3389/fpubh.2025.1540946</a>
+3. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering** — Rank: JCR Q1 (Area III) · **Accepted** · DOI: —
+4. **FEAM: A Dynamic Prompting Framework for Sentiment Analysis with Hierarchical Convolutional Attention** — Rank: JCR Q2 (Area III) · **Published** · *Frontiers in Physics* · DOI: <a href="https://doi.org/10.3389/fphy.2025.1674949">10.3389/fphy.2025.1674949</a>
+5. **DP-FWCA: A Prompt-Enhanced Model for Named Entity Recognition in Educational Domains** — Rank: JCR Q2 (Area IV) · **Published** · *IEEE Access* · DOI: <a href="https://doi.org/10.1109/ACCESS.2025.3590851">10.1109/ACCESS.2025.3590851</a>
+6. **DynProGC-BERT: A Dynamic Prompt and Global-Context Gated Convolutional Framework for Robust Hate Speech Detection** — Rank: JCR Q3 (Area IV) · **Under peer review** · DOI: —
+
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ## 🎯 Team Vision
 - Bridge **academic innovation** and **real-world impact**  
