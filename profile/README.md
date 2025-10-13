@@ -16,66 +16,82 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 ## 🧑‍🔬 Team — 2025 Publications
 
 ### Qiyu Luo
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#fafbfc;">
 
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+
+<!-- Header: avatar at top-left, brief info to the right -->
 <table>
   <tr>
-    <td style="width:185px; vertical-align:top; padding-right:16px;">
-      <img src="lqn.png" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
+    <td style="width:120px; vertical-align:top; padding-right:12px;">
+      <img src="lqn.png" alt="Qiyu Luo" width="110" style="border-radius:50%;"/>
     </td>
     <td style="vertical-align:top;">
-
-**Name:** Qiyu Luo (罗起宁) &nbsp;|&nbsp; **Phone:** 15578032632 &nbsp;|&nbsp; **Email:** [bith6165@gmail.com](mailto:bith6165@gmail.com)  
-**DOB:** 2004-09 &nbsp;|&nbsp; **Gender:** Male &nbsp;|&nbsp; **Political Status:** Mass  
-**University:** Guangxi Police College &nbsp;|&nbsp; **Address:** No. 6 Kaitai Rd, Qingxiu Dist., Nanning, Guangxi
-**Education**  
-- 2022.09–Present · Guangxi Police College · B.Eng. in Data Science & Big Data Technology  
-  Core: Calculus, Probability & Statistics, Linear Algebra, DS/DB/Networks; Python/Java/C/C++; ML/DL/NLP; PyTorch.
-**Experience**  
-- 2024.09–2025.03 · Institute of Software, CAS · MindSpore Open-Source Dev Intern — Built **CGL-MHA** sarcasm model (CNN/GRU/LSTM + MHA), end-to-end training & optimization on MindSpore.  
-- 2023.03–Present · Guangxi Police College · Big Data & Policing Tech Lab — Research assistant; led experiments & figures across optimization, GNNs, sentiment, anomaly detection, materials screening, SSL.
-**Interests:** NLP · GNN & Knowledge Graphs · DL Optimization · Anomaly Detection & Self-Supervised Learning
-<hr/>
-
-#### Publications (DOIs where available)
-1. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning** — *Expert Systems with Applications*  
-   DOI: [10.1016/j.eswa.2025.129002](https://doi.org/10.1016/j.eswa.2025.129002)
-
-2. **A Chinese-English Bilingual Rumor Detection Model Based on GCN and LSTM**  
-   DOI: —
-
-3. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis** — *Scientific Reports*  
-   DOI: [10.1038/s41598-025-93023-3](https://doi.org/10.1038/s41598-025-93023-3)
-
-4. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach**  
-   DOI: —
-
-5. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering**  
-   DOI: —
-
-6. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach** *(duplicate as provided)*  
-   DOI: —
-
-7. **GCN-Based Framework for Materials Screening and Phase Identification**  
-   DOI: —
-
-8. **Deep Learning Method for Earthquake Intensity Prediction Without Geographic Information**  
-   DOI: —
-
-9. **Detecting Sarcasm in User-Generated Content Integrating Transformers and Gated Graph Neural Networks** — *PeerJ Computer Science*  
-   DOI: [10.7717/peerj-cs.2817](https://doi.org/10.7717/peerj-cs.2817)
-
-10. **MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks**  
-    DOI: —
-
-11. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach** — *IET Image Processing*  
-    DOI: [10.1049/ipr2.70098](https://doi.org/10.1049/ipr2.70098)
-
+      <strong>Name:</strong> Qiyu Luo (罗起宁) &nbsp;·&nbsp;
+      <strong>Email:</strong> <a href="mailto:bith6165@gmail.com">bith6165@gmail.com</a> &nbsp;·&nbsp;
+      <strong>University:</strong> Guangxi Police College
+      <br/><br/>
+      <strong>Experience</strong>
+      <ul style="margin-top:6px;">
+        <li><em>2024.09–2025.03</em> · Institute of Software, CAS · MindSpore Open-Source Dev Intern — Built <b>CGL-MHA</b> sarcasm model (CNN/GRU/LSTM + multi-head attention) on MindSpore; led training, validation, and optimization.</li>
+        <li><em>2023.03–Present</em> · Guangxi Police College · Big Data & Policing Tech Lab · Research Assistant — Ran experiments and prepared figures across optimization, GNNs, sentiment analysis, anomaly detection, materials screening, and self-supervised learning.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
+<hr/>
+
+<!-- Full-width publications below -->
+<strong>Publications (DOIs where available)</strong>
+<ol>
+  <li><b>An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning</b> — <i>Expert Systems with Applications</i><br/>
+    DOI: <a href="https://doi.org/10.1016/j.eswa.2025.129002">10.1016/j.eswa.2025.129002</a>
+  </li>
+
+  <li><b>A Chinese-English Bilingual Rumor Detection Model Based on GCN and LSTM</b><br/>
+    DOI: —
+  </li>
+
+  <li><b>Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis</b> — <i>Scientific Reports</i><br/>
+    DOI: <a href="https://doi.org/10.1038/s41598-025-93023-3">10.1038/s41598-025-93023-3</a>
+  </li>
+
+  <li><b>Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach</b><br/>
+    DOI: —
+  </li>
+
+  <li><b>Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering</b><br/>
+    DOI: —
+  </li>
+
+  <li><b>Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach</b> <em>(duplicate as provided)</em><br/>
+    DOI: —
+  </li>
+
+  <li><b>GCN-Based Framework for Materials Screening and Phase Identification</b><br/>
+    DOI: —
+  </li>
+
+  <li><b>Deep Learning Method for Earthquake Intensity Prediction Without Geographic Information</b><br/>
+    DOI: —
+  </li>
+
+  <li><b>Detecting Sarcasm in User-Generated Content Integrating Transformers and Gated Graph Neural Networks</b> — <i>PeerJ Computer Science</i><br/>
+    DOI: <a href="https://doi.org/10.7717/peerj-cs.2817">10.7717/peerj-cs.2817</a>
+  </li>
+
+  <li><b>MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks</b><br/>
+    DOI: —
+  </li>
+
+  <li><b>Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach</b> — <i>IET Image Processing</i><br/>
+    DOI: <a href="https://doi.org/10.1049/ipr2.70098">10.1049/ipr2.70098</a>
+  </li>
+  </li>
+</ol>
+
 </div>
+
 
 
 ### Baozhong Wei
