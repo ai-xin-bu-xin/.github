@@ -1,9 +1,7 @@
 # 🧠 Research Group on Intelligent Systems and Applied Machine Learning
 
 Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focusing on novel architectures, optimization, and cross-domain generalization for real-world intelligent systems.
-
 ---
-
 ## 🔍 Research Interests
 - **Transformer & Graph Neural Networks (GNN) Integration**
 - **Optimization Methods for Deep Learning**
@@ -17,7 +15,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ## 🧑‍🔬 Team — 2025 Publications
 
-### Qiyu Luo · Class of 2022 (Data Science)
+### Qiyu Luo
 <p align="center">
   <img src="lqn.png" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
 </p>
@@ -49,19 +47,8 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 11. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach** — *IET Image Processing* · Rank: JCR Q3 (Area IV)  
    DOI: [10.1049/ipr2.70098](https://doi.org/10.1049/ipr2.70098)
 
-**Chinese core / conference works**  
-12. **JudicMTL: 基于多任务学习的司法案件判决预测模型** (*Peking University Core*)  
-    _JudicMTL: A Multi-Task Learning Model for Judicial Case Judgment Prediction_
 
-13. **融合性别与情绪强度提示特征的多层次谎言检测模型** (*Peking University Core*)  
-    _A Multi-level Deception Detection Model with Gender & Emotion-Intensity Prompt Features_
-
-14. **基于时序几何特征的伪造视频检测模型研究** (*Two conferences*)  
-    _Forged Video Detection via Temporal Geometric Features (Two conferences)_
-
-
-
-### Baozhong Wei · Class of 2022 (Data Science)
+### Baozhong Wei
 <p align="center">
   <img src="wbz.png" alt="Baozhong Wei" width="160" style="border-radius:50%;"/>
 </p>
@@ -81,7 +68,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 11. **Temporal-Structural Modeling for Cryptocurrency Price Forecasting: A Framework Based on Reversed Embedding and Adaptive Graph Convolution** — Rank: — · **Journal selection**  
 ---
 
-### Dongze Wu · Class of 2022 (Data Science)
+### Dongze Wu
 <p align="center">
   <img src="wdz.jpg" alt="Dongze Wu" width="160" style="border-radius:50%;"/>
 </p>
