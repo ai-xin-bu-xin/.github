@@ -8,9 +8,6 @@
 The **SynMind Group** is dedicated to pioneering research in **artificial intelligence**, **machine learning**, and **cognitive systems**.  
 Our work integrates **graph neural networks**, **transformer-based architectures**, **optimization methods**, and **domain generalization**, aiming to unify theoretical innovation with real-world intelligent applications.
 
-Since **2024**, SynMind researchers have contributed to top-tier journals such as *Expert Systems with Applications*, *Scientific Reports*, *PLOS ONE*, *IEEE Access*, and *Frontiers in Environmental Science*.  
-Through close interdisciplinary collaboration, we strive to develop **trustworthy, interpretable, and efficient AI systems** that advance both scientific understanding and practical deployment.
-
 > “At SynMind, we forge intelligence through synthesis — where rigorous thinking meets inspired innovation.”
 
 </td>
