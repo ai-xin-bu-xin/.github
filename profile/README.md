@@ -17,7 +17,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ---
 
-## 🧑‍🔬 Team — 2025 Publications (stacked by person)
+## 🧑‍🔬 Team — 2025 Publications
 
 ### Qiyu Luo · Class of 2022 (Data Science)
 <p align="center">
@@ -35,7 +35,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ---
 
-### Jianwei Zhuo · Class of 2022 (Data Science)
+### Baozhong Wei · Class of 2022 (Data Science)
 <p align="center">
   <img src="wbz.png" alt="Jianwei Zhuo" width="160" style="border-radius:50%;"/>
 </p>
