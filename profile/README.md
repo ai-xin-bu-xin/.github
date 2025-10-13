@@ -189,8 +189,8 @@ Our work integrates **graph neural networks**, **transformer-based architectures
     </td>
     <td style="vertical-align:top;">
       <strong>Name:</strong> Dongze Wu &nbsp;·&nbsp;
-      <strong>Email:</strong> 000 &nbsp;·&nbsp;
-      <strong>University:</strong> —
+      <strong>Email:</strong> 2892943752@qq.com &nbsp;·&nbsp;
+      <strong>University:</strong> Guangxi Police College
       <br/><br/>
       <strong>Experience</strong>
       <ul style="margin-top:6px;">
