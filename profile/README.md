@@ -166,16 +166,51 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 </div>
 
+## 🤝 Collaborating Institutions
 
-## 🎯 Team Vision
-- Bridge **academic innovation** and **real-world impact**  
-- Promote **interdisciplinary collaboration**  
-- Build **open-source** tools and models for the community
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <!-- Logo grid (clickable) -->
+  <table style="width:100%;">
+    <tr>
+      <td align="center" style="padding:10px;">
+        <a href="#"><img src="yangzhou_university.png" alt="Yangzhou University" width="120"/></a><br/>
+        <sub><b>Yangzhou University</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <a href="#"><img src="northeastern_univ_cn.png" alt="Northeastern University (China)" width="120"/></a><br/>
+        <sub><b>Northeastern University (China)</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <a href="#"><img src="jiangsu_open_univ.png" alt="Jiangsu Open University" width="120"/></a><br/>
+        <sub><b>Jiangsu Open University</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:10px;">
+        <a href="#"><img src="juniata_college.png" alt="Juniata College" width="120"/></a><br/>
+        <sub><b>Juniata College</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <a href="#"><img src="ust_liaoning.png" alt="University of Science and Technology Liaoning" width="120"/></a><br/>
+        <sub><b>University of Science and Technology Liaoning</b></sub>
+      </td>
+      <td align="center" style="padding:10px; color:#9ca3af;">
+        <em>More logos coming…</em>
+      </td>
+    </tr>
+  </table>
 
-## 🌐 Contact & Collaboration
-- Email: `research_group@example.com`  
-- GitHub Org: `https://github.com/user` (replace with your org)
+  <!-- Text-only list for the remaining collaborators from the poster -->
+  <div style="margin-top:8px;">
+    <b>More collaborators (text-only):</b>
+    <br/>
+    Macau University of Science and Technology · East China Normal University · Guangxi University ·
+    Nanning University · Guangzhou Vocational University · Guangxi Industrial Vocational & Technical College
+  </div>
+</div>
 
----
+
+
+
 
 © 2025 Intelligent Systems and Applied Machine Learning Group. All rights reserved.
