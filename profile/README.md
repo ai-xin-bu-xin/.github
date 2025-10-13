@@ -169,45 +169,44 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 ## 🤝 Collaborating Institutions
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
-  <!-- Logo grid (clickable) -->
-  <table style="width:100%;">
+  <table style="width:100%; text-align:center;">
     <tr>
-      <td align="center" style="padding:10px;">
-        <a href="#"><img src="yangzhou_university.png" alt="Yangzhou University" width="120"/></a><br/>
+      <td style="padding:10px;">
+        <img src="图片 6.png" alt="Yangzhou University" width="130"/><br/>
         <sub><b>Yangzhou University</b></sub>
       </td>
-      <td align="center" style="padding:10px;">
-        <a href="#"><img src="northeastern_univ_cn.png" alt="Northeastern University (China)" width="120"/></a><br/>
-        <sub><b>Northeastern University (China)</b></sub>
+      <td style="padding:10px;">
+        <img src="图片 2.png" alt="Northeastern University" width="130"/><br/>
+        <sub><b>Northeastern University</b></sub>
       </td>
-      <td align="center" style="padding:10px;">
-        <a href="#"><img src="jiangsu_open_univ.png" alt="Jiangsu Open University" width="120"/></a><br/>
+      <td style="padding:10px;">
+        <img src="图片 1.png" alt="Jiangsu Open University" width="130"/><br/>
         <sub><b>Jiangsu Open University</b></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" style="padding:10px;">
-        <a href="#"><img src="juniata_college.png" alt="Juniata College" width="120"/></a><br/>
+      <td style="padding:10px;">
+        <img src="图片 4.png" alt="Juniata College" width="130"/><br/>
         <sub><b>Juniata College</b></sub>
       </td>
-      <td align="center" style="padding:10px;">
-        <a href="#"><img src="ust_liaoning.png" alt="University of Science and Technology Liaoning" width="120"/></a><br/>
-        <sub><b>University of Science and Technology Liaoning</b></sub>
+      <td style="padding:10px;">
+        <img src="图片 3.png" alt="Macau University of Science and Technology" width="130"/><br/>
+        <sub><b>Macau University of Science and Technology</b></sub>
       </td>
-      <td align="center" style="padding:10px; color:#9ca3af;">
-        <em>More logos coming…</em>
+      <td style="padding:10px;">
+        <img src="图片 5.png" alt="Guangxi University" width="130"/><br/>
+        <sub><b>Guangxi University</b></sub>
       </td>
     </tr>
   </table>
 
-  <!-- Text-only list for the remaining collaborators from the poster -->
-  <div style="margin-top:8px;">
-    <b>More collaborators (text-only):</b>
-    <br/>
-    Macau University of Science and Technology · East China Normal University · Guangxi University ·
-    Nanning University · Guangzhou Vocational University · Guangxi Industrial Vocational & Technical College
+  <div style="margin-top:12px; color:#4b5563;">
+    <b>Additional collaborators:</b>  
+    Guangxi Police College · East China Normal University ·  
+    Guangzhou Vocational University · Guangxi Industrial Vocational & Technical College · Nanning University
   </div>
 </div>
+
 
 
 
