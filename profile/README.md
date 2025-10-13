@@ -26,20 +26,15 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
     <td style="vertical-align:top;">
 
 **Name:** Qiyu Luo (罗起宁) &nbsp;|&nbsp; **Phone:** 15578032632 &nbsp;|&nbsp; **Email:** [bith6165@gmail.com](mailto:bith6165@gmail.com)  
-**Degree:** B.Eng., Data Science & Big Data Tech (expected 2026-07) &nbsp;|&nbsp; **Hometown:** Hechi, Guangxi  
 **DOB:** 2004-09 &nbsp;|&nbsp; **Gender:** Male &nbsp;|&nbsp; **Political Status:** Mass  
 **University:** Guangxi Police College &nbsp;|&nbsp; **Address:** No. 6 Kaitai Rd, Qingxiu Dist., Nanning, Guangxi
-
 **Education**  
 - 2022.09–Present · Guangxi Police College · B.Eng. in Data Science & Big Data Technology  
   Core: Calculus, Probability & Statistics, Linear Algebra, DS/DB/Networks; Python/Java/C/C++; ML/DL/NLP; PyTorch.
-
 **Experience**  
 - 2024.09–2025.03 · Institute of Software, CAS · MindSpore Open-Source Dev Intern — Built **CGL-MHA** sarcasm model (CNN/GRU/LSTM + MHA), end-to-end training & optimization on MindSpore.  
 - 2023.03–Present · Guangxi Police College · Big Data & Policing Tech Lab — Research assistant; led experiments & figures across optimization, GNNs, sentiment, anomaly detection, materials screening, SSL.
-
 **Interests:** NLP · GNN & Knowledge Graphs · DL Optimization · Anomaly Detection & Self-Supervised Learning
-
 <hr/>
 
 #### Publications (DOIs where available)
