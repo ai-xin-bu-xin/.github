@@ -87,6 +87,18 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
   <li><b>Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach</b> — <i>IET Image Processing</i><br/>
     DOI: <a href="https://doi.org/10.1049/ipr2.70098">10.1049/ipr2.70098</a>
   </li>
+
+  <li><b>JudicMTL: 基于多任务学习的司法案件判决预测模型</b> (PKU Core)<br/>
+    DOI: —
+  </li>
+
+  <li><b>融合性别与情绪强度提示特征的多层次谎言检测模型</b> (PKU Core)<br/>
+    DOI: —
+  </li>
+
+  <li><b>基于时序几何特征的伪造视频检测模型研究</b> (Two conferences)<br/>
+    DOI: —
+  </li>
 </ol>
 
 </div>
