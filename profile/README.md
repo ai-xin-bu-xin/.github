@@ -19,7 +19,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
 
-<table style="width:100%;">
+<table style="width:200%;">
   <!-- Row 1: avatar + brief info -->
   <tr>
     <td style="width:120px; vertical-align:top; padding-right:12px;">
