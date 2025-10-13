@@ -38,70 +38,50 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
     </td>
   </tr>
 
-  <!-- Row 2: publications block inside the same table -->
+  <!-- Row 2: publications inside the same table -->
   <tr>
     <td colspan="2" style="padding-top:8px;">
 
-**Publications (all with DOIs)**
+**Selected Publications (DOIs where available)**
 
-1. **MCGCL: Adversarial Attack on Graph Contrastive Learning Based on Momentum Gradient Candidates** — *PLOS ONE*  
-   DOI: <a href="https://doi.org/10.1371/journal.pone.0302327">10.1371/journal.pone.0302327</a>
-
-2. **Building an Intelligent Diabetes Q&A System with Knowledge Graphs and Large Language Models** — *Frontiers in Public Health*  
-   DOI: <a href="https://doi.org/10.3389/fpubh.2025.1540946">10.3389/fpubh.2025.1540946</a>
-
-3. **Prediction and Comparison of In-Vehicle CO₂ Concentration Based on ARIMA and LSTM Models** — *Applied Sciences*  
-   DOI: <a href="https://doi.org/10.3390/app131910858">10.3390/app131910858</a>
-
-4. **Domain Generalization for Image Classification Based on Simplified Self Ensemble Learning** — *PLOS ONE*  
-   DOI: <a href="https://doi.org/10.1371/journal.pone.0320300">10.1371/journal.pone.0320300</a>
-
-5. **Detecting Sarcasm in User-Generated Content Integrating Transformers and Gated Graph Neural Networks** — *PeerJ Computer Science*  
-   DOI: <a href="https://doi.org/10.7717/peerj-cs.2817">10.7717/peerj-cs.2817</a>
-
-6. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning** — *Expert Systems with Applications*  
+1. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning** — *Expert Systems with Applications*  
    DOI: <a href="https://doi.org/10.1016/j.eswa.2025.129002">10.1016/j.eswa.2025.129002</a>
 
-7. **DP-FWCA: A Prompt-Enhanced Model for Named Entity Recognition in Educational Domains** — *IEEE Access*  
-   DOI: <a href="https://doi.org/10.1109/ACCESS.2025.3590851">10.1109/ACCESS.2025.3590851</a>
+2. **A Chinese-English Bilingual Rumor Detection Model Based on GCN and LSTM**  
+   DOI: —
 
-8. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis** — *Scientific Reports*  
+3. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis** — *Scientific Reports*  
    DOI: <a href="https://doi.org/10.1038/s41598-025-93023-3">10.1038/s41598-025-93023-3</a>
 
-9. **MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks** — *Processes*  
-   DOI: <a href="https://doi.org/10.3390/pr13030753">10.3390/pr13030753</a>
+4. **Enhancing intrusion detection performance using GCN-LOF: A hybrid graph-based anomaly detection approach**  
+   DOI: <a href="https://doi.org/10.1016/j.comnet.2025.111606">10.1016/j.comnet.2025.111606</a>
 
-10. **GCN-Based Framework for Materials Screening and Phase Identification** — *Materials*  
-    DOI: <a href="https://doi.org/10.3390/ma18050959">10.3390/ma18050959</a>
+5. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering**  
+   DOI: —
+
+6. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach**  
+   DOI: <a href="https://doi.org/10.1016/j.comnet.2025.111606">10.1016/j.comnet.2025.111606</a>
+
+7. **GCN-Based Framework for Materials Screening and Phase Identification** — *Materials*  
+   DOI: <a href="https://doi.org/10.3390/ma18050959">10.3390/ma18050959</a>
+
+8. **Deep Learning Method for Earthquake Intensity Prediction Without Geographic Information**  
+   DOI: —
+
+9. **Detecting sarcasm in user-generated content integrating transformers and gated graph neural networks** — *PeerJ Computer Science*  
+   DOI: <a href="https://doi.org/10.7717/peerj-cs.2817">10.7717/peerj-cs.2817</a>
+
+10. **MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks** — *Processes*  
+    DOI: <a href="https://doi.org/10.3390/pr13030753">10.3390/pr13030753</a>
 
 11. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach** — *IET Image Processing*  
     DOI: <a href="https://doi.org/10.1049/ipr2.70098">10.1049/ipr2.70098</a>
-
-12. **SFDformer: A Frequency-Based Sparse Decomposition Transformer for Air Pollution Time Series Prediction** — *Frontiers in Environmental Science*  
-    DOI: <a href="https://doi.org/10.3389/fenvs.2025.1549209">10.3389/fenvs.2025.1549209</a>
-
-13. **The Impact of Academic Burnout on Academic Achievement: A Moderated Chain Mediation Effect from the Stimulus–Organism–Response Perspective** — *Frontiers in Psychology*  
-    DOI: <a href="https://doi.org/10.3389/fpsyg.2025.1559330">10.3389/fpsyg.2025.1559330</a>
-
-14. **CMDMamba: Dual-Layer Mamba Architecture with Dual Convolutional Feed-Forward Networks for Efficient Financial Time Series Forecasting** — *Frontiers in Artificial Intelligence*  
-    DOI: <a href="https://doi.org/10.3389/frai.2025.1599799">10.3389/frai.2025.1599799</a>
-
-15. **ACSAformer: A Crime Forecasting Model Based on Sparse Attention and Adaptive Graph Convolution** — *Frontiers in Physics*  
-    DOI: <a href="https://doi.org/10.3389/fphy.2025.1596987">10.3389/fphy.2025.1596987</a>
-
-16. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach** — *Computer Networks*  
-    DOI: <a href="https://doi.org/10.1016/j.comnet.2025.111606">10.1016/j.comnet.2025.111606</a>
-
-17. **FEAM: A Dynamic Prompting Framework for Sentiment Analysis with Hierarchical Convolutional Attention** — *Frontiers in Physics*  
-    DOI: <a href="https://doi.org/10.3389/fphy.2025.1674949">10.3389/fphy.2025.1674949</a>
 
     </td>
   </tr>
 </table>
 
 </div>
-
-
 
 
 
