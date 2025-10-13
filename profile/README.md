@@ -1,9 +1,25 @@
 # 🧠 Research Group on Intelligent Systems and Applied Machine Learning
 
-The **Research Group on Intelligent Systems and Applied Machine Learning (ISAML)** is devoted to advancing the frontiers of **artificial intelligence**, **machine learning**, and **natural language processing**.  
-Our research integrates **deep learning optimization**, **graph neural networks**, and **transformer architectures** to address challenges in **multimodal understanding**, **domain generalization**, and **intelligent decision-making**.  
-By combining rigorous theoretical exploration with real-world applications in **security, healthcare, finance, and education**,  
-we aim to foster innovation, interpretability, and reliability in next-generation intelligent systems.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 20px; text-align: justify;">
+
+The **Research Group on Intelligent Systems and Applied Machine Learning (ISAML)** is dedicated to advancing research in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**.  
+Our work focuses on **graph neural networks**, **transformer architectures**, **optimization algorithms**, and **domain generalization**, aiming to bridge theoretical innovation with real-world applications.  
+
+Since **2024**, our team has guided multiple undergraduate and graduate students in publishing high-quality papers in top-tier journals such as *Expert Systems with Applications*, *PLOS ONE*, *Scientific Reports*, and *IEEE Access*.  
+Through collaboration across disciplines — including healthcare, education, finance, and intelligent security — we pursue the development of **trustworthy, efficient, and interpretable AI systems**.
+
+> “We connect intelligent theory with real-world practice — empowering future innovation through rigorous research and collaboration.”
+
+</div>
+
+<div style="flex: 0 0 40%; text-align: center;">
+  <img src="journals.png" alt="Published Journals" width="350"/>
+</div>
+
+</div>
+
 
 
 ## 🤝 Collaborating Institutions
