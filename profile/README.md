@@ -1,22 +1,22 @@
 # 🧠 Research Group on Intelligent Systems and Applied Machine Learning
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: center;">
 
-<div style="flex: 1; padding-right: 20px; text-align: justify;">
+  <div style="flex: 1; padding-right: 40px; text-align: justify; max-width: 60%;">
+    
+The **Research Group on Intelligent Systems and Applied Machine Learning (ISAML)** focuses on advancing research in **artificial intelligence**, **machine learning**, and **natural language processing**.  
+Our work explores **graph neural networks**, **transformer architectures**, **optimization algorithms**, and **domain generalization**, with the aim of bridging theoretical innovation and real-world application.  
 
-The **Research Group on Intelligent Systems and Applied Machine Learning (ISAML)** is dedicated to advancing research in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**.  
-Our work focuses on **graph neural networks**, **transformer architectures**, **optimization algorithms**, and **domain generalization**, aiming to bridge theoretical innovation with real-world applications.  
+Since **2024**, our members have published high-quality papers in international journals such as *Expert Systems with Applications*, *PLOS ONE*, *Scientific Reports*, *IEEE Access*, and *Frontiers in Environmental Science*.  
+Through interdisciplinary collaboration, we strive to develop **trustworthy, interpretable, and high-performance AI systems** that contribute to scientific and societal progress.
 
-Since **2024**, our team has guided multiple undergraduate and graduate students in publishing high-quality papers in top-tier journals such as *Expert Systems with Applications*, *PLOS ONE*, *Scientific Reports*, and *IEEE Access*.  
-Through collaboration across disciplines — including healthcare, education, finance, and intelligent security — we pursue the development of **trustworthy, efficient, and interpretable AI systems**.
+> “We bridge theory and practice — empowering intelligent systems through innovation and collaboration.”
 
-> “We connect intelligent theory with real-world practice — empowering future innovation through rigorous research and collaboration.”
+  </div>
 
-</div>
-
-<div style="flex: 0 0 40%; text-align: center;">
-  <img src="JUR.png" alt="Published Journals" width="350"/>
-</div>
+  <div style="flex: 0 0 35%; text-align: center;">
+    <img src="JUR.png" alt="Published Journals" width="360"/>
+  </div>
 
 </div>
 
