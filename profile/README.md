@@ -2,8 +2,6 @@
 
 Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focusing on novel architectures, optimization, and cross-domain generalization for real-world intelligent systems.
 
-> Put headshots in `assets/` as `head_31.png`, `head_32.png`, `head_33.png`.
-
 ---
 
 ## 🔍 Research Interests
