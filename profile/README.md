@@ -1,15 +1,39 @@
 # 🧠 Research Group on Intelligent Systems and Applied Machine Learning
 
-Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focusing on novel architectures, optimization, and cross-domain generalization for real-world intelligent systems.
+Welcome to the **Research Group on Intelligent Systems and Applied Machine Learning (ISAML)**.  
+Our mission is to explore the frontier of **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing**, and **Knowledge Graphs**,  
+with a strong emphasis on **theoretical innovation** and **real-world applications**.  
+We strive to develop interpretable, generalizable, and efficient AI models for complex domains including security, healthcare, finance, and education.
+
 ---
-## 🔍 Research Interests
-- **Transformer & Graph Neural Networks (GNN) Integration**
-- **Optimization Methods for Deep Learning**
-- **Multimodal Sentiment Analysis**
-- **Self-Supervised & Domain Generalization**
-- **Time Series Forecasting (Air Quality, Finance, Crime)**
-- **Healthcare AI & Knowledge Graphs**
-- **Educational NLP and Named Entity Recognition**
+
+## 🎯 Research Focus
+
+- **Transformer and Graph Neural Network (GNN) Integration**  
+  Designing unified architectures that capture structural and sequential dependencies for complex data.
+
+- **Optimization Methods for Deep Learning**  
+  Exploring adaptive gradient strategies and second-order optimization for robust training dynamics.
+
+- **Multimodal Sentiment and Emotion Analysis**  
+  Investigating attention-guided fusion across text, audio, and visual modalities for affective computing.
+
+- **Self-Supervised and Domain Generalization Learning**  
+  Developing model-agnostic frameworks for cross-domain adaptability and low-label regimes.
+
+- **Time Series Forecasting**  
+  Applying neural architectures to forecast *air quality, financial trends, and urban crime patterns* with uncertainty modeling.
+
+- **Healthcare AI and Knowledge Graph Reasoning**  
+  Building interpretable graph-based diagnostic systems and medical Q&A platforms.
+
+- **Educational NLP and Named Entity Recognition**  
+  Enhancing text understanding and information extraction for educational resource management.
+
+---
+
+> “We aim to bridge academic innovation with real-world intelligence,  
+> fostering open collaboration and advancing trustworthy AI for society.”
 
 ---
 
