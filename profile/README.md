@@ -15,36 +15,63 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ## 🧑‍🔬 Team — 2025 Publications
 
-### Qiyu Luo
-<p align="center">
-  <img src="lqn.png" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
-</p>
+### Qining Luo (罗起宁)
+<table>
+  <tr>
+    <td width="185" valign="top">
+      <img src="lqn.png" alt="Qining Luo" width="160" style="border-radius:50%;"/>
+    </td>
+    <td valign="top">
 
-**Peer-reviewed works (with DOIs when available)**  
-1. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning** — *Expert Systems with Applications* · Rank: JCR Q1  
+**Name:** Qining Luo  
+**Phone:** 15578032632  
+**Email:** [bith6165@gmail.com](mailto:bith6165@gmail.com)  
+**Degree:** B.Eng. (expected Jul 2026)  
+**Hometown:** Hechi, Guangxi  
+
+**DOB:** 2004-09 · **Gender:** Male · **Political Status:** Mass  
+**University:** Guangxi Police College  
+**Address:** No. 6 Kaitai Road, Qingxiu District, Nanning, Guangxi  
+
+**Education**  
+- *2022.09 – Present*, Guangxi Police College — Data Science & Big Data Technology (B.Eng.)  
+  Core courses: Calculus, Probability & Statistics, Linear Algebra, Data Structures, DB Systems, Networks; Python/Java/C/C++; ML/DL/NLP; proficient with PyTorch.
+
+**Experience**  
+- *2024.09 – 2025.03*, Institute of Software, Chinese Academy of Sciences · **MindSpore** Open-Source Dev Intern  
+  Built **CGL-MHA** sarcasm-detection model with CNN/GRU/LSTM + multi-head attention on MindSpore; conducted training, validation, and optimization workflows.  
+- *2023.03 – Present*, Guangxi Police College · Big Data & Policing Tech Lab · **Research Assistant**  
+  Co-authored multiple SCI papers (lead/advisor first-author, student second-author); led experiments and figure preparation. Focus areas: optimization, GNNs, sentiment analysis, anomaly detection, materials screening, self-supervised learning.
+
+**Research Interests:** NLP · GNN & Knowledge Graphs · Deep Learning Optimization · Anomaly Detection & Self-Supervised Learning
+
+</td></tr></table>
+
+#### Publications (DOIs where available; rankings removed)
+1. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning** — *Expert Systems with Applications*  
    DOI: [10.1016/j.eswa.2025.129002](https://doi.org/10.1016/j.eswa.2025.129002)
 
-2. **A Chinese-English Bilingual Rumor Detection Model Based on GCN and LSTM** — Rank: JCR Q1 (Area II)  
+2. **A Chinese-English Bilingual Rumor Detection Model Based on GCN and LSTM** — DOI: *TBA*
 
-3. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis** — *Scientific Reports* · Rank: JCR Q1 (Area III)  
+3. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis** — *Scientific Reports*  
    DOI: [10.1038/s41598-025-93023-3](https://doi.org/10.1038/s41598-025-93023-3)
 
-4. **Enhancing intrusion detection performance using GCN-LOF: A hybrid graph-based anomaly detection approach** — Rank: JCR Q1 (Area III)
+4. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach** — DOI: *TBA*
 
-5. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering** — Rank: JCR Q1 (Area III)
+5. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering** — DOI: *TBA*
 
-6. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach** — Rank: JCR Q1 (Area III)
+6. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach** (duplicate entry as provided) — DOI: *TBA*
 
-7. **GCN-Based Framework for Materials Screening and Phase Identification** — Rank: JCR Q3
+7. **GCN-Based Framework for Materials Screening and Phase Identification** — DOI: *TBA*
 
-8. **Deep Learning Method for Earthquake Intensity Prediction Without Geographic Information** — Rank: JCR Q2 (Area IV)
+8. **Deep Learning Method for Earthquake Intensity Prediction Without Geographic Information** — DOI: *TBA*
 
-9. **Detecting sarcasm in user-generated content integrating transformers and gated graph neural networks** — *PeerJ Computer Science* · Rank: JCR Q3 (Area IV)  
+9. **Detecting Sarcasm in User-Generated Content Integrating Transformers and Gated Graph Neural Networks** — *PeerJ Computer Science*  
    DOI: [10.7717/peerj-cs.2817](https://doi.org/10.7717/peerj-cs.2817)
 
-10. **MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks** — Rank: JCR Q3 (Area IV)
+10. **MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks** — DOI: *TBA*
 
-11. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach** — *IET Image Processing* · Rank: JCR Q3 (Area IV)  
+11. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach** — *IET Image Processing*  
    DOI: [10.1049/ipr2.70098](https://doi.org/10.1049/ipr2.70098)
 
 
