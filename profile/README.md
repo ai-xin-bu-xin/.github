@@ -1,24 +1,27 @@
 # 🧠 Research Group on Intelligent Systems and Applied Machine Learning
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<table style="width:100%; border-collapse:collapse; border:none;">
+<tr style="border:none; vertical-align:top;">
 
-  <div style="flex: 1; padding-right: 40px; text-align: justify; max-width: 60%;">
-    
-The **Research Group on Intelligent Systems and Applied Machine Learning (ISAML)** focuses on advancing research in **artificial intelligence**, **machine learning**, and **natural language processing**.  
-Our work explores **graph neural networks**, **transformer architectures**, **optimization algorithms**, and **domain generalization**, with the aim of bridging theoretical innovation and real-world application.  
+<td style="width:60%; border:none; padding-right:25px; text-align:justify;">
 
-Since **2024**, our members have published high-quality papers in international journals such as *Expert Systems with Applications*, *PLOS ONE*, *Scientific Reports*, *IEEE Access*, and *Frontiers in Environmental Science*.  
-Through interdisciplinary collaboration, we strive to develop **trustworthy, interpretable, and high-performance AI systems** that contribute to scientific and societal progress.
+The **Research Group on Intelligent Systems and Applied Machine Learning (ISAML)** is devoted to advancing the frontiers of **artificial intelligence**, **machine learning**, and **natural language processing**.  
+Our research spans **graph neural networks**, **transformer architectures**, **optimization algorithms**, and **domain generalization**, aiming to bridge theoretical innovation with practical application.  
 
-> “We bridge theory and practice — empowering intelligent systems through innovation and collaboration.”
+Since **2024**, our team has guided students in publishing high-quality papers in leading international journals such as *Expert Systems with Applications*, *Scientific Reports*, *PLOS ONE*, *IEEE Access*, and *Frontiers in Environmental Science*.  
+Through interdisciplinary collaboration, we seek to develop **trustworthy, interpretable, and efficient AI systems** with real-world impact.
 
-  </div>
+> “We connect intelligent theory with real-world practice — empowering innovation through rigorous research and collaboration.”
 
-  <div style="flex: 0 0 35%; text-align: center;">
-    <img src="JUR.png" alt="Published Journals" width="360"/>
-  </div>
+</td>
 
-</div>
+<td style="width:40%; border:none; text-align:center;">
+  <img src="JUR.png" alt="Published Journals" width="380">
+</td>
+
+</tr>
+</table>
+
 
 
 
