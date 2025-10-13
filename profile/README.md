@@ -21,19 +21,48 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ### Qiyu Luo · Class of 2022 (Data Science)
 <p align="center">
-  <img src="lqn.png" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
+  <img src="assets/head_31.png" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
 </p>
 
-1. **Detecting Sarcasm in User-Generated Content Integrating Transformers and Gated Graph Neural Networks**  
-   *PeerJ Computer Science* · DOI: [10.7717/peerj-cs.2817](https://doi.org/10.7717/peerj-cs.2817)
-2. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning**  
-   *Expert Systems with Applications* · DOI: [10.1016/j.eswa.2025.129002](https://doi.org/10.1016/j.eswa.2025.129002)
-3. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis**  
-   *Scientific Reports* · DOI: [10.1038/s41598-025-93023-3](https://doi.org/10.1038/s41598-025-93023-3)
-4. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach**  
-   *IET Image Processing* · DOI: [10.1049/ipr2.70098](https://doi.org/10.1049/ipr2.70098)
+**Peer-reviewed works (with DOIs when available)**  
+1. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning** — *Expert Systems with Applications* · Rank: JCR Q1  
+   DOI: [10.1016/j.eswa.2025.129002](https://doi.org/10.1016/j.eswa.2025.129002)
 
----
+2. **A Chinese-English Bilingual Rumor Detection Model Based on GCN and LSTM** — Rank: JCR Q1 (Area II)  
+
+3. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis** — *Scientific Reports* · Rank: JCR Q1 (Area III)  
+   DOI: [10.1038/s41598-025-93023-3](https://doi.org/10.1038/s41598-025-93023-3)
+
+4. **Enhancing intrusion detection performance using GCN-LOF: A hybrid graph-based anomaly detection approach** — Rank: JCR Q1 (Area III)
+
+5. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering** — Rank: JCR Q1 (Area III)
+
+6. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach** — Rank: JCR Q1 (Area III)
+
+7. **GCN-Based Framework for Materials Screening and Phase Identification** — Rank: JCR Q3
+
+8. **Deep Learning Method for Earthquake Intensity Prediction Without Geographic Information** — Rank: JCR Q2 (Area IV)
+
+9. **Detecting sarcasm in user-generated content integrating transformers and gated graph neural networks** — *PeerJ Computer Science* · Rank: JCR Q3 (Area IV)  
+   DOI: [10.7717/peerj-cs.2817](https://doi.org/10.7717/peerj-cs.2817)
+
+10. **MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks** — Rank: JCR Q3 (Area IV)
+
+11. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach** — *IET Image Processing* · Rank: JCR Q3 (Area IV)  
+   DOI: [10.1049/ipr2.70098](https://doi.org/10.1049/ipr2.70098)
+
+**Chinese core / conference works**  
+12. **JudicMTL: 基于多任务学习的司法案件判决预测模型** (*Peking University Core*)  
+    _JudicMTL: A Multi-Task Learning Model for Judicial Case Judgment Prediction_
+
+13. **融合性别与情绪强度提示特征的多层次谎言检测模型** (*Peking University Core*)  
+    _A Multi-level Deception Detection Model with Gender & Emotion-Intensity Prompt Features_
+
+14. **基于时序几何特征的伪造视频检测模型研究** (*Two conferences*)  
+    _Forged Video Detection via Temporal Geometric Features (Two conferences)_
+
+> Notes: Items 4 and 6 are duplicated titles preserved as provided. Venue names for items without a journal are omitted; feel free to add details/links.
+
 
 ### Baozhong Wei · Class of 2022 (Data Science)
 <p align="center">
