@@ -47,34 +47,28 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 1. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning** — *Expert Systems with Applications*  
    DOI: <a href="https://doi.org/10.1016/j.eswa.2025.129002">10.1016/j.eswa.2025.129002</a>
 
-2. **A Chinese-English Bilingual Rumor Detection Model Based on GCN and LSTM**  
-   DOI: —
-
-3. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis** — *Scientific Reports*  
+2. **Multimodal GRU with Directed Pairwise Cross-Modal Attention for Sentiment Analysis** — *Scientific Reports*  
    DOI: <a href="https://doi.org/10.1038/s41598-025-93023-3">10.1038/s41598-025-93023-3</a>
 
-4. **Enhancing intrusion detection performance using GCN-LOF: A hybrid graph-based anomaly detection approach**  
+3. **Enhancing intrusion detection performance using GCN-LOF: A hybrid graph-based anomaly detection approach**  
    DOI: <a href="https://doi.org/10.1016/j.comnet.2025.111606">10.1016/j.comnet.2025.111606</a>
 
-5. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering**  
+4. **Detecting Illicit Transactions in Bitcoin: A Wavelet-Temporal Graph Transformer Approach for Anti-Money Laundering**  
    DOI: —
 
-6. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach**  
+5. **Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach**  
    DOI: <a href="https://doi.org/10.1016/j.comnet.2025.111606">10.1016/j.comnet.2025.111606</a>
 
-7. **GCN-Based Framework for Materials Screening and Phase Identification** — *Materials*  
+6. **GCN-Based Framework for Materials Screening and Phase Identification** — *Materials*  
    DOI: <a href="https://doi.org/10.3390/ma18050959">10.3390/ma18050959</a>
 
-8. **Deep Learning Method for Earthquake Intensity Prediction Without Geographic Information**  
-   DOI: —
-
-9. **Detecting sarcasm in user-generated content integrating transformers and gated graph neural networks** — *PeerJ Computer Science*  
+7. **Detecting sarcasm in user-generated content integrating transformers and gated graph neural networks** — *PeerJ Computer Science*  
    DOI: <a href="https://doi.org/10.7717/peerj-cs.2817">10.7717/peerj-cs.2817</a>
 
-10. **MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks** — *Processes*  
+8. **MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks** — *Processes*  
     DOI: <a href="https://doi.org/10.3390/pr13030753">10.3390/pr13030753</a>
 
-11. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach** — *IET Image Processing*  
+9. **Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach** — *IET Image Processing*  
     DOI: <a href="https://doi.org/10.1049/ipr2.70098">10.1049/ipr2.70098</a>
 
     </td>
