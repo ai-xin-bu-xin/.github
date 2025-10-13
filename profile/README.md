@@ -169,43 +169,40 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 ## 🤝 Collaborating Institutions
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
-  <table style="width:100%; text-align:center;">
-    <tr>
-      <td style="padding:10px;">
-        <img src="图片 6.png" alt="Yangzhou University" width="130"/><br/>
-        <sub><b>Yangzhou University</b></sub>
-      </td>
-      <td style="padding:10px;">
-        <img src="图片 2.png" alt="Northeastern University" width="130"/><br/>
-        <sub><b>Northeastern University</b></sub>
-      </td>
-      <td style="padding:10px;">
-        <img src="图片 1.png" alt="Jiangsu Open University" width="130"/><br/>
-        <sub><b>Jiangsu Open University</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">
-        <img src="图片 4.png" alt="Juniata College" width="130"/><br/>
-        <sub><b>Juniata College</b></sub>
-      </td>
-      <td style="padding:10px;">
-        <img src="图片 3.png" alt="Macau University of Science and Technology" width="130"/><br/>
-        <sub><b>Macau University of Science and Technology</b></sub>
-      </td>
-      <td style="padding:10px;">
-        <img src="图片 5.png" alt="Guangxi University" width="130"/><br/>
-        <sub><b>Guangxi University</b></sub>
-      </td>
-    </tr>
-  </table>
 
-  <div style="margin-top:12px; color:#4b5563;">
-    <b>Additional collaborators:</b>  
-    Guangxi Police College · East China Normal University ·  
-    Guangzhou Vocational University · Guangxi Industrial Vocational & Technical College · Nanning University
-  </div>
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+    <td align="center" style="padding:12px;">
+      <img src="图片 1.png" alt="Jiangsu Open University" style="height:90px; object-fit:contain;"/>
+      <div><sub><b>Jiangsu Open University</b></sub></div>
+    </td>
+    <td align="center" style="padding:12px;">
+      <img src="图片 2.png" alt="Northeastern University" style="height:90px; object-fit:contain;"/>
+      <div><sub><b>Northeastern University</b></sub></div>
+    </td>
+    <td align="center" style="padding:12px;">
+      <img src="图片 3.png" alt="Macau University of Science and Technology" style="height:90px; object-fit:contain;"/>
+      <div><sub><b>Macau University of Science and Technology</b></sub></div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:12px;">
+      <img src="图片 4.png" alt="Juniata College" style="height:90px; object-fit:contain;"/>
+      <div><sub><b>Juniata College</b></sub></div>
+    </td>
+    <td align="center" style="padding:12px;">
+      <img src="图片 5.png" alt="Guangxi University" style="height:90px; object-fit:contain;"/>
+      <div><sub><b>Guangxi University</b></sub></div>
+    </td>
+    <td align="center" style="padding:12px;">
+      <img src="图片 6.png" alt="Yangzhou University" style="height:90px; object-fit:contain;"/>
+      <div><sub><b>Yangzhou University</b></sub></div>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 
 
