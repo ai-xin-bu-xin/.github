@@ -19,7 +19,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
 
-<!-- Header: avatar at top-left, brief info to the right -->
+<!-- Header: avatar top-left, brief info on the right -->
 <table>
   <tr>
     <td style="width:120px; vertical-align:top; padding-right:12px;">
@@ -32,8 +32,8 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
       <br/><br/>
       <strong>Experience</strong>
       <ul style="margin-top:6px;">
-        <li><em>2024.09–2025.03</em> · Institute of Software, CAS · MindSpore Open-Source Dev Intern — Built <b>CGL-MHA</b> sarcasm model (CNN/GRU/LSTM + multi-head attention) on MindSpore; led training, validation, and optimization.</li>
-        <li><em>2023.03–Present</em> · Guangxi Police College · Big Data & Policing Tech Lab · Research Assistant — Ran experiments and prepared figures across optimization, GNNs, sentiment analysis, anomaly detection, materials screening, and self-supervised learning.</li>
+        <li><em>2024.09–2025.03</em> · Institute of Software, CAS · MindSpore Open-Source Dev Intern — Built <b>CGL-MHA</b> sarcasm model (CNN/GRU/LSTM + multi-head attention) on MindSpore; end-to-end training/validation/optimization.</li>
+        <li><em>2023.03–Present</em> · Big Data & Policing Tech Lab, Guangxi Police College · Research Assistant — Experiments & figures across optimization, GNNs, sentiment analysis, anomaly detection, materials screening, and self-supervised learning.</li>
       </ul>
     </td>
   </tr>
@@ -41,7 +41,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 <hr/>
 
-<!-- Full-width publications below -->
+<!-- Publications inside the same box -->
 <strong>Publications (DOIs where available)</strong>
 <ol>
   <li><b>An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning</b> — <i>Expert Systems with Applications</i><br/>
@@ -64,7 +64,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
     DOI: —
   </li>
 
-  <li><b>Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach</b> <em>(duplicate as provided)</em><br/>
+  <li><b>Enhancing Intrusion Detection Performance Using GCN-LOF: A Hybrid Graph-Based Anomaly Detection Approach</b><br/>
     DOI: —
   </li>
 
@@ -87,10 +87,10 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
   <li><b>Self-Supervised Learning for Domain Generalization with a Multi-Classifier Ensemble Approach</b> — <i>IET Image Processing</i><br/>
     DOI: <a href="https://doi.org/10.1049/ipr2.70098">10.1049/ipr2.70098</a>
   </li>
-  </li>
 </ol>
 
 </div>
+
 
 
 
