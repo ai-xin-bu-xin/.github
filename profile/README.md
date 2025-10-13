@@ -21,7 +21,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ### Qiyu Luo · Class of 2022 (Data Science)
 <p align="center">
-  <img src="assets/head_31.png" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
+  <img src="lqn.png" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
 </p>
 
 1. **Detecting Sarcasm in User-Generated Content Integrating Transformers and Gated Graph Neural Networks**  
@@ -37,7 +37,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ### Jianwei Zhuo · Class of 2022 (Data Science)
 <p align="center">
-  <img src="assets/head_32.png" alt="Jianwei Zhuo" width="160" style="border-radius:50%;"/>
+  <img src="wbz.png" alt="Jianwei Zhuo" width="160" style="border-radius:50%;"/>
 </p>
 
 1. **ACSAformer: A Crime Forecasting Model Based on Sparse Attention and Adaptive Graph Convolution**  
@@ -51,7 +51,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ### Dongze Wu · Class of 2022 (Data Science)
 <p align="center">
-  <img src="assets/head_33.png" alt="Dongze Wu" width="160" style="border-radius:50%;"/>
+  <img src="wdz.png" alt="Dongze Wu" width="160" style="border-radius:50%;"/>
 </p>
 
 1. **Building an Intelligent Diabetes Q&A System with Knowledge Graphs and Large Language Models**  
