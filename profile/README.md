@@ -16,7 +16,7 @@ Through interdisciplinary collaboration, we seek to develop **trustworthy, inter
 </td>
 
 <td style="width:40%; border:none; text-align:center;">
-  <img src="JUR.png" alt="Published Journals" width="500">
+  <img src="JUR.png" alt="Published Journals" width="700">
 </td>
 
 </tr>
