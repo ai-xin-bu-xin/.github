@@ -1,17 +1,17 @@
-# 🧠 Research Group on Intelligent Systems and Applied Machine Learning
+# 🧠 SynMind Group — Research on Intelligent and Cognitive Systems
 
 <table style="width:100%; border-collapse:collapse; border:none;">
 <tr style="border:none; vertical-align:top;">
 
 <td style="width:60%; border:none; padding-right:25px; text-align:justify;">
 
-The **Research Group on Intelligent Systems and Applied Machine Learning (ISAML)** is devoted to advancing the frontiers of **artificial intelligence**, **machine learning**, and **natural language processing**.  
-Our research spans **graph neural networks**, **transformer architectures**, **optimization algorithms**, and **domain generalization**, aiming to bridge theoretical innovation with practical application.  
+The **SynMind Group** is dedicated to pioneering research in **artificial intelligence**, **machine learning**, and **cognitive systems**.  
+Our work integrates **graph neural networks**, **transformer-based architectures**, **optimization methods**, and **domain generalization**, aiming to unify theoretical innovation with real-world intelligent applications.
 
-Since **2024**, our team has guided students in publishing high-quality papers in leading international journals such as *Expert Systems with Applications*, *Scientific Reports*, *PLOS ONE*, *IEEE Access*, and *Frontiers in Environmental Science*.  
-Through interdisciplinary collaboration, we seek to develop **trustworthy, interpretable, and efficient AI systems** with real-world impact.
+Since **2024**, SynMind researchers have contributed to top-tier journals such as *Expert Systems with Applications*, *Scientific Reports*, *PLOS ONE*, *IEEE Access*, and *Frontiers in Environmental Science*.  
+Through close interdisciplinary collaboration, we strive to develop **trustworthy, interpretable, and efficient AI systems** that advance both scientific understanding and practical deployment.
 
-> “We connect intelligent theory with real-world practice — empowering innovation through rigorous research and collaboration.”
+> “At SynMind, we forge intelligence through synthesis — where rigorous thinking meets inspired innovation.”
 
 </td>
 
@@ -21,6 +21,7 @@ Through interdisciplinary collaboration, we seek to develop **trustworthy, inter
 
 </tr>
 </table>
+
 
 
 
