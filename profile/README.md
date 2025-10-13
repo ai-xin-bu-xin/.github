@@ -15,7 +15,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ## 🧑‍🔬 Team — 2025 Publications
 
-### Qiyu Luo
+### Qining Luo
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
 
@@ -23,7 +23,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
   <!-- Row 1: avatar + brief info -->
   <tr>
     <td style="width:120px; vertical-align:top; padding-right:12px;">
-      <img src="lqn.png" alt="Qiyu Luo" width="340" style="border-radius:50%;"/>
+      <img src="lqn.png" alt="Qining Luo" width="340" style="border-radius:50%;"/>
     </td>
     <td style="vertical-align:top;">
       <strong>Name:</strong> Qiyu Luo (罗起宁) &nbsp;·&nbsp;
