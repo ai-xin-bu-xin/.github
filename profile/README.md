@@ -21,7 +21,7 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 ### Qiyu Luo · Class of 2022 (Data Science)
 <p align="center">
-  <img src="lqn.jpg" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
+  <img src="lqn.png" alt="Qiyu Luo" width="160" style="border-radius:50%;"/>
 </p>
 
 1. **Detecting Sarcasm in User-Generated Content Integrating Transformers and Gated Graph Neural Networks**  
