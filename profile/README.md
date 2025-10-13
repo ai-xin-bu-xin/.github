@@ -97,8 +97,8 @@ Welcome! We advance **AI, Machine Learning, NLP, and Knowledge Graphs** — focu
 
 5. **DP-FWCA: A Prompt-Enhanced Model for Named Entity Recognition in Educational Domains** — Rank: JCR Q2 (Area IV) · **Status: Published**  
    *IEEE Access* · DOI: [10.1109/ACCESS.2025.3590851](https://doi.org/10.1109/ACCESS.2025.3590851)
-
-6. **DynProGC-BERT: A Dynamic Prompt and Global-Context Gated Convolutional Framework for Robust Hate Speech Detection** — Rank: JCR Q3 (Area IV) · **Status: Under peer review**
+  
+7. **DynProGC-BERT: A Dynamic Prompt and Global-Context Gated Convolutional Framework for Robust Hate Speech Detection** — Rank: JCR Q3 (Area IV) · **Status: Under peer review**
 ****
 ---
 
