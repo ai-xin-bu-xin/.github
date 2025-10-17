@@ -94,7 +94,7 @@ Our work integrates **graph neural networks**, **transformer-based architectures
   <tr>
     <td colspan="2" style="padding-top:8px;">
 
-**Selected Publications (DOIs where available)**
+**Selected Publications**
 
 1. **An Improvement by Introducing LBFGS Idea into the Adam Optimizer for Machine Learning** — *Expert Systems with Applications*  
    DOI: <a href="https://doi.org/10.1016/j.eswa.2025.129002">10.1016/j.eswa.2025.129002</a>
