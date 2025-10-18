@@ -1,4 +1,4 @@
-# 🧠 SynMind Group （融智研究组）— Research on Intelligent and Cognitive Systems
+# 🧠 SynMind Group — Research on Intelligent and Cognitive Systems
 
 <table style="width:100%; border-collapse:collapse; border:none;">
 <tr style="border:none; vertical-align:top;">
